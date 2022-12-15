@@ -9,4 +9,4 @@ A lightweight wake on lan server powered by SSH!
 - provide the cmd script to your users with the desired mac address as the username
 
 ## ­
-- Thanks to this [post](https://stackoverflow.com/a/10991928) on Stack Overflow for the sed command.
+- Thanks to [this](https://stackoverflow.com/a/10991928) post on Stack Overflow for the sed command.
